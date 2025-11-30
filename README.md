@@ -4,14 +4,10 @@
 
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
-| Dielectrics | Metal and Light |
-|--------|--------|
-| <img src="output/demos/demo4.png" width="400"> | <img src="output/demos/demo1.png" width="400"> |
-
-| Quadrilaterals | Diffused Materials |
-|--------|--------|
-| <img src="output/demos/demo3.png" width="400"> | <img src="output/demos/demo2.png" width="400"> |
-
+<img src="output/demos/demo4.png" width="400">
+<img src="output/demos/demo1.png" width="400">
+<img src="output/demos/demo3.png" width="400">
+<img src="output/demos/demo2.png" width="400">
 
 ## Recent Changes
 
