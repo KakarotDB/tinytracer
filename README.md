@@ -1,5 +1,7 @@
 # TinyTracer
 
+<a href="https://winter-of-open-source.vercel.app/"><img src="media/banner.png"></a>
+
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
@@ -29,7 +31,6 @@ Implemented so far:
 - [Installation](#installation)
 - [How to Contribute](#how-to-contribute)
 - [Code of Conduct](#code-of-conduct)
-- [Technical Foreword](#technical-foreword)
 - [References](#references)
 
 ## Installation
