@@ -101,10 +101,10 @@ def main():
 
     print("Saved as output/image.ppm")
 
-
-start = time.time()
-main()
-print(f"Render time: {time.time() - start:.2f}s")
+if __name__ == "__main__":
+    start = time.time()
+    main()
+    print(f"Render time: {time.time() - start:.2f}s")
 
 
 '''
