@@ -90,6 +90,9 @@ def render_pixel(args):
 
 
 def main(args):
+    if args.samples<=0:
+        raise ValueError("Samples per pixel must be a positive integer.")     #input validation 
+    
 
     aspect_ratio = 16.0 / 9.0
 
